@@ -1,0 +1,7 @@
+C:\Users\Yaren Aydın\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Yaren Aydın\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Yaren Aydın\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Yaren Aydın\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+C:\Users\Yaren Aydın\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Aydın\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Yaren Aydın\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
